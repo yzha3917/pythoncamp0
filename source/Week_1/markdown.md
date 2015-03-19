@@ -36,7 +36,7 @@ Reference-style labels (titles are optional):
 	else in the doc, define the link:
 
   [id]: http://example.com/  "Title"
-Email:
+##### Email:
 
 	An email <example@example.com> link.
 	Images
