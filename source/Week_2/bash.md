@@ -79,7 +79,7 @@ The one I'm currently using, non-complains.
 
 
 ------
-<1> For more (and correct) information, please visit [Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+<1> For more (and correct) information, please visit [Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell)  
 <2> For the complete list, please visit [Wikipedia](http://en.wikipedia.org/wiki/List_of_terminal_emulators)  
 <3> For more complete command list, please visit [here](http://ss64.com/osx/)  
 <4> For more details, please visit [here](http://bash.cyberciti.biz/guide/Changing_bash_prompt)  
