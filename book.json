@@ -1,1 +1,8 @@
-{}
+{
+  "plugins": ["disqus"],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "pythoncamp0-yzha3917"
+    }
+  }
+}
