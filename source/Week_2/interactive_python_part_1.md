@@ -1,5 +1,5 @@
 ##Interactive Python Part 1
--------
+
 
 ###Arithmetic Expressions
 int() takes the "whole" part of a decimal number.  

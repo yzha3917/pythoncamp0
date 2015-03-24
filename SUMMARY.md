@@ -1,7 +1,7 @@
 # SUMMARY
 
 * [缘起](/source/begin.md)
-* [Week 1](/source/part1/introduction)
+* [Week 1](/source/Week_1/Hello_World.md)
   * [开光大会心得总结](/source/Week_1/conference.md)
   * [Markdown](/source/Week_1/markdown.md)
   * [Mailing-list](/source/Week_1/mailing-list.md)

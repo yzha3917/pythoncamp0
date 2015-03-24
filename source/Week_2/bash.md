@@ -1,6 +1,5 @@
 ##Bash 
 
-------
 As the major application I'm using on a daily basis, I guess *Bash* deserves a separated section to be talked about. 
 
 ### What is Bash<sup>1</sup>?

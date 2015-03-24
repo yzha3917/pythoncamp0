@@ -1,5 +1,5 @@
 # Markdown Introduction
-----
+
 
 ### 1. What is markdown ? 
 

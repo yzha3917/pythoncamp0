@@ -1,5 +1,5 @@
 #Mailing list
--------
+
 
 ###What is mailing list? 
 A mailing list is a collection of email addresses, and the purpose of it is to send material to a group of recipients. Generally speaking, there are two different types, announcement list and discussion list. 
