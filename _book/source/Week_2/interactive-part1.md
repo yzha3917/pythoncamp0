@@ -61,24 +61,7 @@ Calling module by typing
 * String vs. Number
 * = vs. ==
 
-###Local vs. Global variables
-* Anything created inside a function, is a local variable. 
-* By using "global variable", the variable in function becomes global one. 
 
-
-###SimpleGUI
-* Program Structure
-	* Globals (state)
-	* Helper functions
-	* Classes
-	* Define event handlers
-	* Create a frame
-	* Register event handlers
-	* Start frame & timers
-	
-###Programming tips 2
-* "return" is important in a function. 
-* Otherwise, this function returns "None"
 
 
 
