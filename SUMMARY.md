@@ -11,4 +11,5 @@
   * [Bash](/source/Week_2/bash.md)
   * [An Introduction to Interactive Programming in Python (Part 1)](/source/Week_2/interactive_part1.md)
   * [Vim](/source/Week_2/vim.md)
+  * [Guess the number](/source/Week_2/Guess_the_number.md)
 * [The end ?](/source/end.md)
