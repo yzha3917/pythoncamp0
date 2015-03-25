@@ -11,7 +11,7 @@ According to [the assignment page](https://class.coursera.org/interactivepython1
 
 
 ###The code
-Since it's requested to involve SimpleGUI for this project, both [codeskulptor code](http://www.codeskulptor.org/#user39_sZ2qwIJ5s0_3.py) and [GitHub code](https://github.com/yzha3917/omooc.py/blob/master/guess_the_number.py) are given. 
+Since it's requested to involve SimpleGUI for this project, both [codeskulptor code](http://www.codeskulptor.org/#user39_EcWw8kBKIX_1.py) and [GitHub code](https://github.com/yzha3917/omooc.py/blob/master/guess_the_number.py) are given. 
 
 ![codeskulptor code](https://github.com/yzha3917/pythoncamp0/blob/master/source/Week_2/Guess.png?raw=true)
 
