@@ -20,3 +20,26 @@ Since it's requested to involve SimpleGUI for this project, both [codeskulptor c
 ###Future tweaks
 * Local Python GUI module.
 * Fonts and layouts of outcome.
+
+
+###Local Python GUI module
+####Python version shift
+* [pyenv](https://github.com/yyuu/pyenv)    
+* another [useful document](http://amaral-lab.org/resources/guides/pyenv-tutorial)
+
+####SimpleGUI
+https://github.com/OpenMindClub/OMOOC.py/wiki/codeskulptor_in_local
+
+http://stackoverflow.com/questions/17869101/unable-to-install-pygame-using-pip
+
+http://stackoverflow.com/questions/17886647/cant-install-via-pip-because-of-egg-info-error
+
+http://stackoverflow.com/questions/17886647/cant-install-via-pip-because-of-egg-info-error
+
+http://stackoverflow.com/questions/11425106/python-pip-install-fails-invalid-command-egg-info
+
+
+
+
+
+
